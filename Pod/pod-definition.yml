@@ -9,4 +9,4 @@ spec:
     - name: nginx-container
       image: nginx
     - name: backend-container
-      images: redis
+      image: redis
